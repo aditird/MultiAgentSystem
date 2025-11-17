@@ -1,0 +1,8 @@
+huggingface-hub==0.36.0
+playwright==1.56.0
+requests==2.31.0
+requests-oauthlib==2.0.0
+requests-toolbelt==1.0.0
+torch<=2.9.0
+transformers==4.57.1
+urllib3==2.0.3
